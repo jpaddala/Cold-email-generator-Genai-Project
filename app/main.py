@@ -8,7 +8,7 @@
 
 # # os.environ['USER_AGENT'] = "ColdEmailGenerator/1.0"
 # # def create_streamlit_App(llm, portfolio, clean_text):
-# #     st.title("📧 Cold Mail Generator")
+# #     st.title("Cold Mail Generator")
 # #     url_input = st.text_input("Enter a URL:", value="https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01551028_en&title=Record%20to%20Report%20Ops%20Analyst")
 # #     submit_button = st.button("Submit")
 
@@ -65,7 +65,7 @@
 
 # # Main Streamlit App
 # def create_streamlit_App(llm, portfolio, clean_text):
-#     st.title("📧 Cold Mail Generator")
+#     st.title(" Cold Mail Generator")
 #     url_input = st.text_input("Enter a URL:", value="https://www.netradyne.com/company/careers?gh_jid=4473016005")
 #     submit_button = st.button("Submit")
 
@@ -120,7 +120,7 @@
 
 # # Main Streamlit App
 # def create_streamlit_App(llm, portfolio, clean_text):
-#     st.title("📧 Cold Mail Generator")
+#     st.title(" Cold Mail Generator")
 #     url_input = st.text_input("Enter a URL:", value="https://www.netradyne.com/company/careers?gh_jid=4473016005")
 #     submit_button = st.button("Submit")
 
